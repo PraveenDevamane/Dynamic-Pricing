@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gym
+stable-baselines3
+shimmy>=0.2.1
+lightgbm
+optuna
